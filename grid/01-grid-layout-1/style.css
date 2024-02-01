@@ -18,6 +18,8 @@ html {
   font-weight: bold;
   color: white;
   border-radius: 15px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(8, 1fr);
 }
 
 .header {
